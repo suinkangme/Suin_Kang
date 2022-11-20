@@ -1,4 +1,7 @@
 
+## This is Suin's GitHub! 
+
+
 <h3 align="center"><b>💌 Social 💌 </b></h3>
 </br>
 <p align="center">
@@ -20,5 +23,3 @@
                                                                                                                                                                                                                                    
 </p>
 
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=footer"/>
