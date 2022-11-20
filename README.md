@@ -1,5 +1,4 @@
-
-![header](https://capsule-render.vercel.app/api?type=wave&color=_hexcode:#B897FF&height=300&section=header&text=Suin'sGithub%20&fontSize=90)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Yuhyeon's Github&fontSize=50" />
 
 <h3 align="center"><b>💌 Social 💌 </b></h3>
 </br>
