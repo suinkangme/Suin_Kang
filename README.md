@@ -1,7 +1,6 @@
 
-<h2 align="center">This is Suin's GitHub!</h2>
+<h2 align="center">Suin's GitHub</h2>
 
-<br>
 <br>
 <h3 align="center"><b>💌 Social 💌 </b></h3>
 </br>
@@ -11,6 +10,8 @@
 <a href="https://challenge-change.tistory.com/"><img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&link=https://velog.io/@youhyeoneee"/></a>
 </p>
 
+<br>
+<br>
 <h3 align="center"><b>📚 Tech Stack 📚</b></h3>
 </br>
 <p align="center">
@@ -23,4 +24,7 @@
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
                                                                                                                                                                                                                                    
 </p>
+
+<br>
+<br>
 
