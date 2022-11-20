@@ -1,7 +1,8 @@
 
-<h1 align="center">This is Suin's GitHub!</h1>
+<h2 align="center">This is Suin's GitHub!</h2>
 
-
+<br>
+<br>
 <h3 align="center"><b>💌 Social 💌 </b></h3>
 </br>
 <p align="center">
