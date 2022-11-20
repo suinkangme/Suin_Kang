@@ -8,7 +8,7 @@
 <p align="center">
 <a href="mailto:suinkang.developer@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:suinkang.developer@gmail.com"/></a>
 <a href="https://www.instagram.com/sruoinna_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/sruoinna_"/></a>
-<a href="https://challenge-change.tistory.com/"><img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/"></a>
+<a href="https://challenge-change.tistory.com/"><img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://challenge-change.tistory.com/"></a>
 </p>
 
 <br>
