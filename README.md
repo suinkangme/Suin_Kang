@@ -8,7 +8,7 @@
 <p align="center">
 <a href="mailto:suinkang.developer@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:suinkang.developer@gmail.com"/></a>
 <a href="https://www.instagram.com/sruoinna_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/sruoinna_"/></a>
-<a href="https://challenge-change.tistory.com/"><img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&link=https://velog.io/@youhyeoneee"/></a>
+<a href="https://challenge-change.tistory.com/">[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://zzsza.github.io/)</a>
 </p>
 
 <br>
@@ -23,8 +23,11 @@
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-                                                                                                                                                                                                                                   
 </p>
+
+<br>
+<h3 align="center"><b>💌 Tools 💌 </b></h3>
+</br>
 
 <br>
 <br>
