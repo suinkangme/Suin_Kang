@@ -1,5 +1,5 @@
 
-## This is Suin's GitHub! 
+<h1 align="center">This is Suin's GitHub!</h1>
 
 
 <h3 align="center"><b>💌 Social 💌 </b></h3>
