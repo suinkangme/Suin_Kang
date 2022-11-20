@@ -1,9 +1,10 @@
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=_hexcode:#B897FF&height=300&section=header&text=Suin'sGithub%20&fontSize=90)
 
+<h3 align="center"><b>💌 Social 💌 </b></h3>
 </br>
 <p align="center">
-<a href="mailto:메일@주소><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=suinkang.developer@gmail.com"/></a>
+<a href="suinkang.developer@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=suinkang.developer@gmail.com"/></a>
 <a href="https://www.instagram.com/sruoinna_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/sruoinna_"/></a>
 <a href="https://velog.io/@youhyeoneee"><img src="http://img.shields.io/badge/-Velog-20c997?style=for-the-badge&link=https://velog.io/@youhyeoneee"/></a>
 </p>
