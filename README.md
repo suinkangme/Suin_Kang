@@ -1,7 +1,6 @@
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=header&text=Yuhyeon's Github&fontSize=50">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeAuto&height=300&section=footer"/>
 
-<h3 align="center"><b>💌 Social 💌 </b></h3>
 </br>
 <p align="center">
 <a href="mailto:메일@주소><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:메일@주소"/></a>
