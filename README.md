@@ -8,8 +8,8 @@
 <p align="center">
 <a href="mailto:suinkang.developer@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:suinkang.developer@gmail.com"/></a>
 <a href="https://www.instagram.com/sruoinna_"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/sruoinna_"/></a>
-<a href="https://challenge-change.tistory.com/"><img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://challenge-change.tistory.com/"></a>
-<a href="https://www.linkedin.com/in/suin-kang-b72b63203/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suinkang/"></a>
+<a href="https://challenge-change.tistory.com/"><img src="http://img.shields.io/badge/-Tech%20blog-black?style=for-the-badge&logo=github&link=https://challenge-change.tistory.com/"></a>
+<a href="https://www.linkedin.com/in/suin-kang-b72b63203/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suinkang/"></a>
   
  </p>
 
