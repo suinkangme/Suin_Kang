@@ -29,7 +29,11 @@
 </p>
 
 <br>
-<h3 align="center"><b>💌 Tools 💌 </b></h3>
+<h3 align="center"><b>💌 Data Science Library 💌 </b></h3>
+* Numpy
+* Pandas
+* SciKit-Learn
+
 </br>
 
 <br>
