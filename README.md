@@ -28,11 +28,8 @@
 <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
 </p>
 
-<br>
-<h3 align="center"><b>💌 Data Science Library 💌 </b></h3>
-* Numpy
-* Pandas
-* SciKit-Learn
+
+
 
 </br>
 
