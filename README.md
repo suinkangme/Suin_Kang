@@ -12,7 +12,8 @@
 <a href="https://www.linkedin.com/in/suin-kang-b72b63203/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suinkang/"></a>
   
  </p>
-
+ 
+<br>
 <br>
 <br>
 <h3 align="center"><b>🖥️ Machine Learning 🖥️</b></h3>
@@ -27,7 +28,7 @@
 </p>
 </br>
 
-
+<br>
 <br>
 <h3 align="center"><b>📚 Tech Stack 📚</b></h3>
 </br>
