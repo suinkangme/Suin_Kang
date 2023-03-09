@@ -10,7 +10,7 @@
 <a href="https://challenge-change.tistory.com/"><img src="http://img.shields.io/badge/-Tech%20blog-black?style=for-the-badge&logo=github&link=https://challenge-change.tistory.com/"></a>
 <a href="https://www.linkedin.com/in/suin-kang-b72b63203/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/suinkang/"></a>
   
- </p>
+</p>
  
 <br>
 <br>
