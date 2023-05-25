@@ -15,7 +15,7 @@
 <br>
 <br>
 <br>
-<h3 align="center"><b>🖥️ Date Science - Data Analysis & Machine Learning 🖥️</b></h3>
+<h3 align="center"><b>🖥️ Date Science - Data Analysis & Data Viz & Machine Learning 🖥️</b></h3>
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
