@@ -26,7 +26,7 @@
 <img src="https://img.shields.io/badge/seaborn-FEA1A1?style=for-the-badge&logo=python&logoColor=white">
 
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
-<img src="https://img.shields.io/badge/표시할이름-색상?style=for-the-badge&logo=기술스택아이콘&logoColor=white">
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
   
 </p>
 </br>
