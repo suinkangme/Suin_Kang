@@ -15,25 +15,37 @@
 <br>
 <br>
 <br>
-<h3 align="center"><b>🖥️ Date Science - Data Analysis & Data Viz & Machine Learning 🖥️</b></h3>
+<h3 align="center"><b>🖥️ Date Science - Data Analysis & Machine Learning & Deep Learning 🖥️</b></h3>
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
 <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
 <img src="https://img.shields.io/badge/tensorflow-%FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white">
-  
-<img src="https://img.shields.io/badge/matplotlib-9999FF?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/seaborn-FEA1A1?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
+
 
   
 </p>
 </br>
 
+
 <br>
 <br>
-<h3 align="center"><b>📚 Tech Stack 📚</b></h3>
+<h3 align="center"><b>📊 Data Viz 📊</b></h3>
+</br>
+<p align="center">
+<img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
+<img src="https://img.shields.io/badge/matplotlib-9999FF?style=for-the-badge&logo=python&logoColor=white">
+<img src="https://img.shields.io/badge/seaborn-FEA1A1?style=for-the-badge&logo=python&logoColor=white">
+</p>
+
+
+
+
+
+<br>
+<br>
+<h3 align="center"><b>📚 Other Tech Stack 📚</b></h3>
 </br>
 <p align="center">
 <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white">
