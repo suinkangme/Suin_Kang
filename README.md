@@ -21,10 +21,12 @@
 <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
 <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
 <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white">
+<img src="https://img.shields.io/badge/tensorflow-%FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white">
   
 <img src="https://img.shields.io/badge/matplotlib-9999FF?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/seaborn-FEA1A1?style=for-the-badge&logo=python&logoColor=white">
 <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white">
+
   
 </p>
 </br>
